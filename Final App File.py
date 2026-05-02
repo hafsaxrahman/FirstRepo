@@ -1,4 +1,5 @@
 import tkinter as tk
+import random as rand
 from tkinter import messagebox as msgbox
 from tkinter import ttk
 
