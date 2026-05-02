@@ -16,7 +16,7 @@ app.geometry ("1300x700")
 # Color scheme
 color_blue = "#4da6ff"
 color_green = "#b3ffb3"
-color_white = "white"
+color_white = "white" #fileapp online edited for push
 
 
 
